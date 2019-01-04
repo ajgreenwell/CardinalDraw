@@ -31,5 +31,6 @@ Short for _east_, this command moves the "pen" toward the right of your screen b
 Short for _west_, this command moves the "pen" toward the left of your screen by the number of _units_ provided.
 
 
+#### NOTE: brackets indicate a required argument. All arguments are separated from their commands by a single space, with no brackets present.
 
 
