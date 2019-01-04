@@ -53,7 +53,7 @@ def main():
 		line = line.rstrip('\n')
 		if parse(line) == False:
 			print('***SyntaxError*** : {} on Line {}'.format(filename, line_num))
-			return
+			break
 		line_num += 1
 	file.close()
 
