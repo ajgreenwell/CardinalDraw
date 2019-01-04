@@ -14,7 +14,7 @@ Short for _down_, this command ensures that the "pen" is touching the "paper". W
 
 Short for _up_, this command ensures that the "pen" is not touching the "paper". This allows the user to move the pen without drawing anything on-screen.
 
-#### _N []_
+#### _N [pixels]_
 
 Short for _north_, this command moves the "pen" toward the top of your screen by the number of _pixels_ provided. If the "pen" is down, it will draw this many _pixels_ north. If it is _up_, this command will move the pen this many _pixels_ north.
 
